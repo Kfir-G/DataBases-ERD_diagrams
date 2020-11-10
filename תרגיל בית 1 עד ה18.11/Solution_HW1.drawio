@@ -1,16 +1,1 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T07:14:11.848Z" agent="5.0 (Windows)" etag="HmT_BpcJWNedDlnucWq0" version="13.9.1" type="github">
-  <diagram id="eMQ5TRxTmStjorEiqi1c" name="Page-1">
-    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="j3rjkkRVbv-SQNSZ4Iz0-1" value="בדיקה" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="180" y="50" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="j3rjkkRVbv-SQNSZ4Iz0-3" value="x" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="j3rjkkRVbv-SQNSZ4Iz0-1" vertex="1">
-          <mxGeometry y="26" width="160" height="104" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T12:20:47.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="OwxM3KFRlQ253fmns9Fq" version="13.9.2" type="device"><diagram id="eMQ5TRxTmStjorEiqi1c" name="Page-1">pVXbUtswEP0aP9KJL7nwSEygnYYOJZ124IURlmIrkbUeWSExX9+VLUUxCYW2Mx5be7SSdveclYM4LXfXilTFDVAmgmhAd0F8GURROIgn+DFI0yHDxAK54tQ6eWDBX5hbadENp6zuOWoAoXnVBzOQkmW6hxGlYNt3W4Lon1qRnB0Bi4yIY/QXp7ro0Ek09vhnxvPCnRyOzruZkjhnm0ldEArbAyieBXGqAHQ3KncpE6Z4ri7duqs3ZveBKSb1RxasYrVar+9+Pj2fLb5/WzwkX14GZ3aXZyI2NuHgchych+07bt/n5n0xbseJTUU3rj71lpeCSLSmS5B6YWcGaGcFF3ROGtiY+GpNsrWzpgUo/oL+ROBUiABOK23pj0Y9j4VZafdUrEafW5d0+Aq6Ibue45zU2kUDQpCq5k9tfGZhSVTO5RS0htI6EcFzieMM92LK5dRFFSZoHxfdVZApzXYHkCXhmkHJtGrQxc1OrCBcR1hz6+UVjixWHEortiCxks73W3vWcWCJ/wsRxEci2B3xjMnpliYFa5aCAKzOpYSOeC7EK6iuSMZlPmdLE33ikTubkIEAi7YUbU8UnFImDW+giSZPexFVwKVuEx5O8cESpINPw2CIMaVoh97Gx7grnYLEMAlvGWKogC0zKuhxGZ3k8o8t8j7BllCU78cIHST/T+g9Tdjqa/5wu149ju/TKV2NHl3IB/QxireaNbFEBeQgiZh5FAu/kZRRW3bvMweobMOsmNaNrSDZaDBdqkvXwUzSC3Phojm7QxX8gBsim27iipsE2p270Ew8b95jLnzYqIy9p9tjGhQTRPPn/v6namyX3hqJ+f5Mhv3+DKNJfwu8qXKm7SrPFCZPmgM3q9y3zwlPn3P1b/446CLwstnX5JSS0PT/ns7d/8Hj2W8=</diagram></mxfile>
