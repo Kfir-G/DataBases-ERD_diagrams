@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T10:10:20.730Z" agent="5.0 (Windows)" etag="cKgUDJtbUjHefayNRLq1" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T10:11:24.202Z" agent="5.0 (Windows)" etag="YODbEh5YzXNKm-qG8mk8" version="13.10.0" type="github">
   <diagram id="ZG66Vc0ERhC9Tk7fiMRs" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,27 +201,6 @@
         </mxCell>
         <mxCell id="dx-kTDNFEH0jn1T8rNep-92" value="year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-90">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-97" value="Sigment-?-" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="720" width="140" height="182" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-98" value="uniqueNumber" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-99" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-100" value="description" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-101" value="minimalDays" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="104" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-102" value="minimalPurchase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="130" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dx-kTDNFEH0jn1T8rNep-103" value="minimalSumOfMoney" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dx-kTDNFEH0jn1T8rNep-97">
-          <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dx-kTDNFEH0jn1T8rNep-104" value="Campaign" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="720" width="140" height="156" as="geometry" />
